@@ -6,6 +6,7 @@ A demo MCP (Model Context Protocol) server built with FastMCP, using an Employee
 
 ## Prerequisites
 
+- Python 3.10+
 - [uv](https://docs.astral.sh/uv/) — Python package and project manager
 
 ---
