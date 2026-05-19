@@ -160,3 +160,17 @@ Copilot Chat now has context of your MCP server. You can ask things like:
 
 > "Check my leave balance for EMP001"
 > "Apply annual leave for EMP001 from 2026-06-01 to 2026-06-03, 3 days, reason: family trip"
+
+---
+
+## Screenshots
+
+![Start MCP server from VS Code](https://github.com/user-attachments/assets/0b71cb9b-8320-42a1-9ea2-b6d01a573c4a)
+
+![MCP server connected](https://github.com/user-attachments/assets/21fad123-66d1-4868-af9c-692f36a3f6af)
+
+![Enable employee-leave tools in Copilot Chat](https://github.com/user-attachments/assets/bbd4167d-9707-4c9e-90cc-9e4a638d0f57)
+
+![Chat with MCP server - leave balance](https://github.com/user-attachments/assets/545c9a77-3896-472d-ae91-5219d6847e03)
+
+![Chat with MCP server - apply leave](https://github.com/user-attachments/assets/2a33d623-8c3f-47be-b113-55e90fb79994)
